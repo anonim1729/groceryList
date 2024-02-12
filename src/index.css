@@ -43,7 +43,8 @@ main {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: center;
+  margin-top: 10px;
+  justify-content: flex-start;
   align-items: center;
   overflow-y: auto;
 }
