@@ -4,6 +4,7 @@ const Content = () => {
         const i = Math.floor(Math.random() * 4);
         return names[i];
     }
+
     return (
         <main>
             <p>
